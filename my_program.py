@@ -1,6 +1,6 @@
 # List even numbers
 
-MAX_NUMBER = 10
+MAX_NUMBER = 12
 
 def even_numbers():
     for i in range(MAX_NUMBER):
